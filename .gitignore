@@ -1,0 +1,4 @@
+*.log
+temp/
+**/.terraform.lock.hcl
+**/.terraform/**
