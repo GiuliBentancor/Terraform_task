@@ -1,10 +1,10 @@
 WEEK1 TASK:
-Install terraform in your local machine
+Install Terraform in your local machine, connect an AZ account
 
 ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/8a13dc26-7034-421c-8a43-ed1b35622514)
 
 
-Deploy a simple virtual network in your RG
+Create the code to deploy a simple virtual network in your RG
 
 ![planandapply](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/597787a5-69d0-4f9e-9d21-207f5db210ca)
 
