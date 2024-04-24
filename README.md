@@ -15,6 +15,7 @@ Verify if the network was created as desired by logging in to the Azure portal
 
 
 Destroy the created virtual network using Terraform.
-![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/1ab1b4e2-76b8-4edd-ba68-11039283746d)
+![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/9f166e7c-dd3c-4d34-9278-c1dbecf2fd48)
+
 ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/f6ba2da1-ff1e-402f-a988-cf08b43ec69a)
 
