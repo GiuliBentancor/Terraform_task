@@ -24,16 +24,15 @@ WEEK 2
     Create a variable environment to store the name of the environment to be used
     Based on the value of the variable “environment”, the instance count should change (per example above, if you pass dev as the value to env, 1 vm should be created; if it is test, 3 should be created).
 
-    -- dev
-
-    ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/e8f649e7-960a-4fd6-9df2-f42e015e5253)
-    ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/ba9ac01d-a851-438a-9d39-808d9632c00e)
-
+    dev
+![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/75a6d6ee-f496-4a06-b3e8-5d84be1d50da)
+![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/aef0d97a-dfe0-4508-9979-431aadba1c26)
 
 
-    -- test 
-    ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/10343666-f382-4c29-8472-0075f5d3f54d)
-    ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/97f7f743-87e1-492f-af29-f091b3aa18c4)
+    test 
+![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/edc5dbf7-b1df-4e61-8c69-27b1727c5945)
+![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/fba37bba-2359-488f-840d-56b6c20ad941)
+
 
 
 4- Use terraform graph command to create a graph for the challenge 3 and visualize it.
