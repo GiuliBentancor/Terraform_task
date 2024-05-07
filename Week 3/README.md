@@ -35,7 +35,7 @@ Part1
         Get the outputs of the module and display them (id and private_ip_addresses) using output blocks
     
  ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/71015bd7-59a4-456a-a1a1-e04d3ff3aa21)
- ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/f21bf3c3-476a-46ad-aad1-fe7db6324e09)
+ ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/13a25567-113e-45a3-b7db-0d25faff0f45)
  ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/454a905a-ff8f-4870-8374-97ba01afe33e)
 
 
@@ -49,7 +49,7 @@ Part2
     Once the apply step is completed, investigate the contents of the tfstate file created inside the blob container
     Destroy the resources using tf destroy command and verify if the tfstate file inside the blob container gets updated accordingly
 
- ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/5c04d3b0-c335-40ba-9cae-e8424ca21d49)
+ ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/2775d3ab-3847-469d-a6ea-2685dd1874ee)
  ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/5e24da52-12b6-427a-aafa-0e6f95d914f1)
 
 Part3
