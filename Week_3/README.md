@@ -1,4 +1,4 @@
-Part1
+Part_1
 
     Using Modules:
     Create two folders - my-custom-vm and root
@@ -39,7 +39,7 @@ Part1
  ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/454a905a-ff8f-4870-8374-97ba01afe33e)
 
 
-Part2
+Part_2
 
     Using remote backend:
     Create a storage account in azure(manually from the portal)
@@ -52,7 +52,7 @@ Part2
  ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/2775d3ab-3847-469d-a6ea-2685dd1874ee)
  ![image](https://github.com/GiuliBentancor/Terraform_task/assets/54630519/5e24da52-12b6-427a-aafa-0e6f95d914f1)
 
-Part3
+Part_3
 
 
     Add terraform configuration to deploy a simple virtual network; a simple one just with the required parameters.
